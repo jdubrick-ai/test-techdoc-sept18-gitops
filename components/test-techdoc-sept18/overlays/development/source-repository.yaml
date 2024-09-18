@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: test-techdoc-sept18-repository
+spec:
+  url: https://github.com/jdubrick-ai/test-techdoc-sept18
